@@ -4,7 +4,7 @@ const handler = async (m, {conn, text}) => {
     const res = await fetch('https://api.thecatapi.com/v1/images/search');
     const img = await res.json();
     const caption = `
-_©𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓_
+_©𝙊𝘾𝙀𝘼𝙉 𝘾𝙊𝙍𝙋_
 `.trim();
     conn.sendFile(m.chat, img[0].url, 'cat.jpg', caption, m);
   } catch (e) {
