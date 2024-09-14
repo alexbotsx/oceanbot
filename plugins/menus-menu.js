@@ -33,7 +33,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : ����� 𝘾���
+┃⭐ Creador : 𝗢𝗖𝗘𝗔𝗡 𝗕𝗢𝗧
 ┃📞 Wa.me/529861009341
 ┃https://www.instagram.com/ocean.corp
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
